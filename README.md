@@ -1,6 +1,6 @@
 ### Welcome to my github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjalmaHenry&layout=compact)](https://github.com/DjalmaHenry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjalmaHenry&hide=javascript,html)](https://github.com/DjalmaHenry/github-readme-stats)
 
 <!--
 **DjalmaHenry/djalmahenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
