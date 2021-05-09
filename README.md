@@ -1,5 +1,7 @@
 ### Welcome to my github
 
+[![Top Langs](https://img.shields.io/badge/LinkedIn-Djalma%20Henrique-blue)](https://www.linkedin.com/in/djalma-henrique-b17aa6199/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjalmaHenry&langs_count=8)](https://github.com/DjalmaHenry/github-readme-stats)
 
 <!--
