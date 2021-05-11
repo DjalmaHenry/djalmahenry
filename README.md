@@ -1,4 +1,4 @@
-### Welcome to my github
+## Welcome to my GitHub
 
 [![Top Langs](https://img.shields.io/badge/LinkedIn-Djalma%20Henrique-blue)](https://www.linkedin.com/in/djalma-henrique-b17aa6199/) 
 [![Top Langs](https://img.shields.io/badge/E--mail-djalmahenry%40outlook.com-red)](mailto:djalmahenry@outlook.com) 
