@@ -1,23 +1,14 @@
 ## Welcome to my GitHub
 
-[![Top Langs](https://img.shields.io/badge/LinkedIn-Djalma%20Henrique-blue)](https://www.linkedin.com/in/djalma-henrique-b17aa6199/) 
-[![Top Langs](https://img.shields.io/badge/E--mail-djalmahenry%40outlook.com-red)](mailto:djalmahenry@outlook.com) 
+<div>
+  [![Top Langs](https://img.shields.io/badge/LinkedIn-Djalma%20Henrique-blue)](https://www.linkedin.com/in/djalma-henrique-b17aa6199/) 
+  [![Top Langs](https://img.shields.io/badge/E--mail-djalmahenry%40outlook.com-red)](mailto:djalmahenry@outlook.com) 
+</div>
 
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjalmaHenry&langs_count=8)](https://github.com/DjalmaHenry/github-readme-stats)
+</div>
 
-![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**DjalmaHenry/djalmahenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  ![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
+</div>
