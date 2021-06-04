@@ -3,8 +3,9 @@
  
  <div style="display: inline_block"><br>
    <p> SoftSkills: </p>
-  <a href="https://github.com/DjalmaHenry">
+  <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=java&sort=">
   <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png">
+  <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=assembly&sort=">
   <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
   </a>
 </div>
