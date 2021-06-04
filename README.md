@@ -1,5 +1,6 @@
 ## Welcome to my GitHub
 <div>
+ <p> Contact: </p>
  <a href="https://www.linkedin.com/in/djalma-henrique-b17aa6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto: contato@djalmahenry.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
