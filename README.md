@@ -4,8 +4,8 @@
  <div style="display: inline_block"><br>
    <p> SoftSkills: </p>
   <a href="https://github.com/DjalmaHenry">
-  <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120863552-2056ef80-c561-11eb-85c4-50e24e7acdf7.png">
-  <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png">
+  <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
   </a>
 </div>
  
