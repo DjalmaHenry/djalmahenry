@@ -5,7 +5,7 @@
    <p> About: </p>
    <p>- 👨‍💻 Computer Science Student, 4ª Period, UNICAP.</p>
    <p>- 🖌️ Freelancer Graphic Designer <a href="https://www.instagram.com/byteditsoficial/">@byteditsoficial</a>.</p>
-   <p>- 🇧🇷  I'm From Brazil.</p>
+   <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
  </div>
  
  <div style="display: inline_block"><br>
