@@ -3,8 +3,8 @@
  
  <div style="display: inline_block"><br>
    <p> About: </p>
-   <p>- 👨‍💻 Estudante de Ciência da Computação, 4ª Periodo, UNICAP.</p>
-   <p>- 🖌️ Designer Gráfico Freelancer <a href="https://www.instagram.com/byteditsoficial/">@byteditsoficial</a>.</p>
+   <p>- 👨‍💻 Computer Science Student, 4ª Period, UNICAP.</p>
+   <p>- 🖌️ Freelancer Graphic Designer <a href="https://www.instagram.com/byteditsoficial/">@byteditsoficial</a>.</p>
  </div>
  
  <div style="display: inline_block"><br>
