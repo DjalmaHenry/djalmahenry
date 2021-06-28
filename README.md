@@ -1,13 +1,17 @@
 <div align="center">
  <h2>Welcome to my GitHub 🤖</h2>
  
+ <div align="left">
+ 
+  
  <div style="display: inline_block">
    <h3> About: </h3>
    <p>- 👨‍💻 Computer Science Student, 4ª Period, UNICAP.</p>
+   <img alt="Home" src="https://user-images.githubusercontent.com/45500812/123565372-05a81d00-d793-11eb-8247-3995045987e9.png" width="30%" align="right" style="margin-top: 80px">
    <p>- 🖌️ Freelancer Graphic Designer <a href="https://www.instagram.com/byteditsoficial/">@byteditsoficial</a>.</p>
    <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
  </div>
- 
+
  <div style="display: inline_block">
   <h3> SoftSkills: </h3>
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=java&sort=">
