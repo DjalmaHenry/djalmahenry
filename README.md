@@ -8,7 +8,7 @@
    <h3> About: </h3>
    <p>- 👨‍💻 Computer Science Student, 4ª Period, UNICAP.</p>
   <a href="https://github.com/DjalmaHenry">
-   <img alt="astronauta" src="https://user-images.githubusercontent.com/45500812/123566628-8583b680-d796-11eb-96a8-bf08aa065612.png" width="30%" align="right" style="margin-top: 80px">
+   <img alt="astronauta" src="https://user-images.githubusercontent.com/45500812/123569616-06de4780-d79d-11eb-87a6-b4d67690dfdd.png" width="30%" align="right" style="margin-top: 80px">
    </a
    <p>- 🖌️ Freelancer Graphic Designer <a href="https://www.instagram.com/byteditsoficial/">@byteditsoficial</a>.</p>
    <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
