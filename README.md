@@ -56,6 +56,8 @@
  <div style="display: inline_block" align="center"> 
  <h2> 🕵️‍♂️ Total profile visits: </h2>
  <p> 
+  <a href="https://github.com/DjalmaHenry">
    <img alingn="center" src="https://profile-counter.glitch.me/davimateus1/count.svg" />
+  </a>
  </p>  
  </div>  
