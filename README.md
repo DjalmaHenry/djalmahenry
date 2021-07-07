@@ -52,12 +52,3 @@
 ![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
   </a>
  </div>
- 
- <div style="display: inline_block" align="center"> 
- <h2> 🕵️‍♂️ Total profile visits: </h2>
- <p> 
-  <a href="https://github.com/DjalmaHenry">
-   <img alingn="center" src="https://profile-counter.glitch.me/djalmahenry/count.svg" />
-  </a>
- </p>  
- </div>  
