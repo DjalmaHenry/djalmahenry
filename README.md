@@ -22,8 +22,8 @@
    <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
   </a>
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=html&sort=">
-   <img align="center" alt="Dj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Dj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Dj-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Dj-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
  </div>
  
