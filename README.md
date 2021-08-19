@@ -17,23 +17,27 @@
  <div style="display: inline_block">
   <h3> SoftSkills: </h3>
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=java&sort=">
-  <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png"> 
+   <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png"> 
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=assembly&sort=">
-  <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
+   <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
+  </a>
+  <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=html&sort=">
+   <img align="center" alt="Dj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Dj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
  </div>
  
  <div style="display: inline_block">
   <h3> In Progress: </h3>
   <a href="https://github.com/DjalmaHenry">
-  <img align="center" alt="Dj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dj-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dj-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dj-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Dj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Dj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="Dj-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Dj-Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+   <img align="center" alt="Dj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
 </div>
+  
  
 <div style="display: inline_block">
   <h3> Contact: </h3>
