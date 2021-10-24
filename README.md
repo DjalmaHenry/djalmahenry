@@ -30,14 +30,15 @@
  <div style="display: inline_block">
   <h3> In Progress: </h3>
   <a href="https://github.com/DjalmaHenry">
-   <img align="center" alt="Dj-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Dj-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Dj-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Dj-Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
-   <img align="center" alt="Dj-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Angular" height="30" width="30" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Unity" height="30" width="30" src="https://user-images.githubusercontent.com/45500812/138612271-166b8b13-d383-4420-b75d-0b4b5581408a.jpg">
+   <img align="center" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
-</div>
-  
+</div>  
  
 <div style="display: inline_block">
   <h3> Contact: </h3>
