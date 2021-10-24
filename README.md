@@ -44,7 +44,6 @@
   <h3> Contact: </h3>
   <a href="https://www.linkedin.com/in/djalma-henrique-b17aa6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto: contato@djalmahenry.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://wa.me/message/V5P5NAXCGB7HM1"><img src="https://img.shields.io/badge/-whatsapp-%25d366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 </div>
 
