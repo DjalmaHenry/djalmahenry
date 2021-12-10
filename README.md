@@ -6,7 +6,7 @@
   
  <div style="display: inline_block">
    <h3> About: </h3>
-   <p>- 👨‍💻 Computer Science Student, 4ª Period, UNICAP.</p>
+   <p>- 👨‍💻 Computer Science Student, 5ª Period, UNICAP.</p>
   <a href="https://beacons.ai/djalmahenry">
    <img alt="astronauta" src="https://user-images.githubusercontent.com/45500812/123569616-06de4780-d79d-11eb-87a6-b4d67690dfdd.png" width="30%" align="right" style="margin-top: 80px">
    </a
