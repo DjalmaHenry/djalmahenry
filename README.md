@@ -10,7 +10,7 @@
   <a href="https://portfolio.djalmahenry.com/">
    <img alt="astronauta" src="https://user-images.githubusercontent.com/45500812/123569616-06de4780-d79d-11eb-87a6-b4d67690dfdd.png" width="30%" align="right" style="margin-top: 80px">
    </a
-   <p>- 💼 Front-end Developer at Manifesto Games.</p>
+   <p>- 💼 Full Stack Developer at Manifesto Games.</p>
    <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
  </div>
 
