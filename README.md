@@ -24,6 +24,7 @@
    <img align="center" alt="Dj-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=java&sort=">
+   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png"> 
   <a href="https://github.com/DjalmaHenry?tab=repositories&q=&type=&language=assembly&sort=">
    <img align="center" alt="Dj-Assembly" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865088-b5f37e80-c563-11eb-8a08-a79020fac300.png">
@@ -33,10 +34,8 @@
  <div style="display: inline_block">
   <h3> In Progress: </h3>
   <a href="https://github.com/DjalmaHenry">
+   <img align="center" alt="Flutter" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Unity" height="30" width="30" src="https://user-images.githubusercontent.com/45500812/138612271-166b8b13-d383-4420-b75d-0b4b5581408a.jpg">
-   <img align="center" alt="C#" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </a>
 </div>  
  
