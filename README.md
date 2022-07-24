@@ -8,7 +8,7 @@
    <h3> About: </h3>
    <p>- 👨‍💻 Computer Science Student, 6ª Period, UNICAP.</p>
   <a href="https://portfolio.djalmahenry.com/">
-   <img alt="astronauta" src="https://user-images.githubusercontent.com/45500812/123569616-06de4780-d79d-11eb-87a6-b4d67690dfdd.png" width="30%" align="right" style="margin-top: 80px">
+   <img alt="astronauta" src="https://portfolio.djalmahenry.com/assets/dj-dev-illustration.png" width="30%" align="right" style="margin-top: 80px">
    </a
    <p>- 💼 Full Stack Developer at Manifesto Games.</p>
    <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
@@ -56,8 +56,6 @@
 ![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
   </a>
  </div>
- 
- <hr>  
  
 <a href="https://github.com/djalmahenry">
 <div align="center">
