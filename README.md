@@ -34,9 +34,9 @@
  <div style="display: inline_block">
   <h3> In Progress: </h3>
   <a href="https://github.com/DjalmaHenry">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Flutter" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Flutter" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+   <img align="center" alt="Dart" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   </a>
 </div>  
  
