@@ -47,9 +47,4 @@
 ![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
   </a>
  </div>
- 
-<a href="https://github.com/djalmahenry">
-<div align="center">
-  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=djalmahenry&bg_color=171717&color=ffffff&line=9124ff&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=Commits%20no%20Github"/>
 </div>
-</a>
