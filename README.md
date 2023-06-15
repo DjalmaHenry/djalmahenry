@@ -6,7 +6,7 @@
   
  <div style="display: inline_block">
    <h3> About: </h3>
-   <p>- 👨‍💻 Computer Science Student, 7ª Period, UNICAP.</p>
+   <p>- 👨‍💻 B.Sc. Computer Science at UNICAP.</p>
   <a href="https://portfolio.djalmahenry.com/">
    <img alt="astronauta" src="https://portfolio.djalmahenry.com/assets/dj-dev-illustration.png" width="30%" align="right" style="margin-top: 80px">
    </a
