@@ -24,9 +24,9 @@
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Dj-Java" height="30" width="40" src="https://user-images.githubusercontent.com/45500812/120865135-d0c5f300-c563-11eb-8ada-ad2e3e4eb923.png"> 
    <img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Ruby" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
    <img align="center" alt="Flutter" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="Dart" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-   <img align="center" alt="Ruby" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   </a>
  </div> 
  
