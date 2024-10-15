@@ -11,7 +11,7 @@
    <img alt="astronauta" src="https://portfolio.djalmahenry.com/assets/dj-dev-illustration.png" width="30%" align="right" style="margin-top: 80px">
    </a
    <p>- 💼 Full Stack Developer at Manifesto Games.</p>
-   <p>- 🇧🇷  I'm From Brazil, Pernambuco, Recife.</p>
+   <p>- 🇧🇷  I'm From Brazil, Ceará, Fortaleza</p>
  </div>
 
  <div style="display: inline_block">
