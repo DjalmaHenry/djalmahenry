@@ -7,10 +7,7 @@
  <div style="display: inline_block">
    <h3> About: </h3>
    <p>- 👨‍💻 B.Sc. Computer Science at UNICAP.</p>
-  <a href="https://portfolio.djalmahenry.com/">
-   <img alt="astronauta" src="https://portfolio.djalmahenry.com/assets/dj-dev-illustration.png" width="30%" align="right" style="margin-top: 80px">
-   </a
-   <p>- 💼 Full Stack Developer at Manifesto Games.</p>
+   <p>- 💼 Full Stack Developer at Luizalabs.</p>
    <p>- 🇧🇷  I'm From Brazil, Ceará, Fortaleza</p>
  </div>
 
@@ -42,8 +39,6 @@
   <a href="https://github.com/DjalmaHenry">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DjalmaHenry&layout=compact&langs_count=16&theme=dracula"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DjalmaHenry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
-![Snake animation](https://github.com/DjalmaHenry/djalmahenry/blob/output/github-contribution-grid-snake.svg)
   </a>
  </div>
 </div>
